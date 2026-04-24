@@ -1,0 +1,1 @@
+Erstelle eine einfache HTML Seite, die zur Demonstration dienen soll. Sie sollte einen Header, Hauptteil und einen Footer enthalten, in freundlichen Farben gestaltet sein und ohne Emojis auskommen.  
